@@ -1,3 +1,5 @@
+<h1>이것 저것 해보는 중... <h1/>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Jack's%20World&fontSize=70)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhlee0409&show_icons=true&theme=radical)
 
@@ -32,13 +34,14 @@
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=GitHub%20Pages&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=Ant%20Design&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/esbuild-FFCF00?style=flat-square&logo=esbuild&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=Ant%20Design&logoColor=white" /></a>
   <br/>
-   <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=GitHub%20Pages&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white" /></a>
 </p>
 
 <h3> LANGUAGES </h3>
