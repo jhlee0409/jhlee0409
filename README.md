@@ -21,6 +21,8 @@
 <p>
   <img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=Next.js&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=Tailwind&logoColor=white" /></a>
 </p>
 
 <h5>BOTTOM</h5>
