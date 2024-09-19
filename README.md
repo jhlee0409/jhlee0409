@@ -1,7 +1,7 @@
 <h1>이것 저것 해보는 중... <h1/>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Jack's%20World&fontSize=70)
-![jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackBuzzni&show_icons=true&theme=radical&count_private=true)
+![jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhlee0409&show_icons=true&theme=radical&count_private=true)
 
 <h3> 🛠 TECH STACK 🛠 </h3>
   
@@ -25,9 +25,9 @@
 
 <h3> LANGUAGES </h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackBuzzni&layout=compact&theme=blue"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhlee0409&layout=compact&theme=blue"/>
 
 <h3> SOLVED </h3>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jackBuzzni)](https://solved.ac/jackBuzzni)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhlee0409)](https://solved.ac/jhlee0409)
