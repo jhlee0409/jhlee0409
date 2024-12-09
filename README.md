@@ -39,3 +39,12 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhlee0409)](https://solved.ac/jhlee0409)
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/jhlee0409"
+  width="600"
+  height="300"
+/>
+</a>
+
