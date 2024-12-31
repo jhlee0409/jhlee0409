@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Jack's%20World&fontSize=70)
 ![jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhlee0409&show_icons=true&theme=radical&count_private=true)
 
-<h3> 🏆 Archvement </h3>
+<h3> 🏆 ARCHVEMENT </h3>
 
 <div>
   <a href="https://hhpluscertificateofcompletion.oopy.io/">
@@ -25,7 +25,7 @@
 </p>
 
 
-<h5>PLATFORM</h5>
+<h5> PLATFORM </h5>
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=Ant%20Design&logoColor=white" /></a>
@@ -35,10 +35,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhlee0409&layout=compact&theme=blue"/>
 
-<h3> SOLVED </h3>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhlee0409)](https://solved.ac/jhlee0409)
+<h3> GIT-ANIMALS </h3>
 
 <a href="https://github.com/devxb/gitanimals">
 <img
