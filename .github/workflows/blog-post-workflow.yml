@@ -1,10 +1,10 @@
 name: Latest blog post workflow
 on:
   schedule:
-    - cron: '0 * * * *'  # 매시간 실행
+    - cron: '0 * * * *'
   push:
     branches: [ main ]
-  workflow_dispatch:  # 수동 실행 옵션 추가
+  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
@@ -17,5 +17,10 @@ jobs:
           feed_list: 'https://www.devunpacker.com/feed.xml'
           readme_path: './README.md'
           max_post_count: 5
-          committer_username: "blog-post-bot"
-          committer_email: "blog-post-bot@example.com"
+          template: "- 📝 $newline [[$title]]($url)"
+          disable_html_encoding: true
+          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+          accept_header: "application/xml"
+          retry_count: 3
+          retry_wait_time: 10
+          enable_keepalive: true
