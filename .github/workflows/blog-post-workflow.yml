@@ -17,9 +17,7 @@ jobs:
           feed_list: 'https://www.devunpacker.com/feed.xml'
           readme_path: './README.md'
           max_post_count: 5
-          template: "- 📝 $title\n  [$url]($url)"
+          template: "- 📝 [$title]($url)"  # 템플릿을 단순화했습니다
           disable_html_encoding: true
           disable_item_validation: true
           remove_duplicates: true
-          date_format: 'yyyy-mm-dd'
-          comment_tag_name: "BLOG-POST-LIST"
