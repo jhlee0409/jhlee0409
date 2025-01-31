@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> 프론트엔드 엔지니어 이재혁 입니다</h1>
+<h1 align="center"><a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>안녕하세요! 프론트엔드 엔지니어 이재혁 입니다 </h1>
 <h3 align="center">Web Frontend Engineer</h3>
 
 <h3 align="left">🤝 Connect with me:</h3>
@@ -27,16 +27,20 @@
 - [항해 플러스의 두 번째 코스, 클린코드를 마치며 - FSD 편](https://www.devunpacker.com/blog/hanghae-3rd-fsd)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhlee0409&show_icons=true&locale=en&layout=compact" alt="jhlee0409" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhlee0409&show_icons=true&locale=en" alt="jhlee0409" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhlee0409)](https://git.io/streak-stats)
-
-<a href="https://github.com/devxb/gitanimals">
+<p><a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/jhlee0409"
   width="600"
   height="300"
 />
-</a>
+</a></p>
+
+
+
+
