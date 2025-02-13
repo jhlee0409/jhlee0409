@@ -20,11 +20,11 @@
 <h3 align="left">📕 Latest Blog Post</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Javascript] 시나브로 자바스크립트 1주차 이모저모](https://www.devunpacker.com/blog/javascript-sinabro-js-week-1)
 - [[JavaScript] 배열의 특정 값만 추출하기](https://www.devunpacker.com/blog/javascript-array-destructuring-with-index)
 - [[JavaScript] forEach 메서드에서 탈출하기](https://www.devunpacker.com/blog/javascript-escape-for-each)
 - [2024 Recap](https://www.devunpacker.com/blog/2024-recap)
 - [두려움이 없는 조직](https://www.devunpacker.com/blog/fearless-org)
-- [항해 플러스의 두 번째 코스, 클린코드를 마치며 - FSD 편](https://www.devunpacker.com/blog/hanghae-3rd-fsd)
 <!-- BLOG-POST-LIST:END -->
 
 ---
