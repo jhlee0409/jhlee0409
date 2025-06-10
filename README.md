@@ -41,6 +41,20 @@
 />
 </a></p>
 
+---
+
+<h3 align="left">📌 Featured Project</h3>
+
+<a href="https://www.oneiri.app" target="_blank"><img src="https://www.oneiri.app/oneiri_logo.png" alt="Oneiri Project Banner with Logo" width="8%"/></a>
+
+**Oneiri: 간밤의 꿈, 한 편의 이야기가 되다**
+
+AI를 활용해 사용자의 꿈을 매력적인 이야기로 재창조하는 생성형 AI 웹 서비스입니다. 흩어진 기억의 조각들을 입력하면, 세상에 단 하나뿐인 특별한 서사를 경험할 수 있습니다. 
+
+*   **Web Site:** **[oneiri.app](https://www.oneiri.app)**
+*   **Tech Stack:** `Next.js`, `Tailwind`, `TypeScript`, `Google Gemini API`, `Vercel`
+---
+
 
 
 
