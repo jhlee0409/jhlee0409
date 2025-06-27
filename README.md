@@ -20,11 +20,11 @@
 <h3 align="left">📕 Latest Blog Post</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [바이브 코딩으로 만든 PR 자동 요약, 써보니 괜찮음](https://www.devunpacker.com/blog/pr-auto-summary-claude-ai)
+- [프론트엔드 선택 상태, 배열로 괜찮을까?](https://www.devunpacker.com/blog/frontend-selection-state-array-vs-set-map)
 - [🎬 웹에서 구현한 다양한 비디오 Crop 방식 비교기](https://www.devunpacker.com/blog/react-compare-video-crop-methods)
 - [다운로드 상태에 따른 폴링 제어: TanStack Query refetchInterval 함수형 패턴](https://www.devunpacker.com/blog/tanstack-query-refetchinterval-polling-control)
 - [Next.js 리다이렉트 이슈: 헤더 차이로 발생한 오류와 해결책](https://www.devunpacker.com/blog/nextjs-solving-redirect-header-issues)
-- [[Javascript] CLI 만들기 이모저모](https://www.devunpacker.com/blog/javascript-make-cli)
-- [[Javascript] 시나브로 자바스크립트 6주차 이모저모 - 바닐라 JS로 이해하는 CSR, SSR, 라우팅, 하이드레이션](https://www.devunpacker.com/blog/javascript-sinabro-js-week-6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
