@@ -55,6 +55,16 @@ AI를 활용해 사용자의 꿈을 매력적인 이야기로 재창조하는 �
 *   **Tech Stack:** `Next.js`, `Tailwind`, `TypeScript`, `Google Gemini API`, `Vercel`
 ---
 
+<a href="https://github.com/jhlee0409/claude-code-history-viewer" target="_blank"><img src="https://github.com/user-attachments/assets/74116391-9e60-4473-aab7-6ac139eae48c" alt="Claude Code History Viewer with Logo" width="8%"/></a>
+
+**Claude Code History Viewer: AI 대화 기록의 효율적인 관리**
+
+Claude Code 사용자를 위한 대화 기록 뷰어입니다. 로컬에 저장된 대화 기록을
+체계적으로 탐색하고, 토큰 사용량을 분석하며, 필요한 코드나 대화를 빠르게 검색할 수
+ 있습니다.
+
+- Download Dmg: [releases](https://github.com/jhlee0409/claude-code-history-viewer/releases)
+- Tech Stack: React 19, TypeScript, Rust, Tauri, Tailwind CSS
 
 
 
