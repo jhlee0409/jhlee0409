@@ -45,15 +45,6 @@
 
 <h3 align="left">📌 Featured Project</h3>
 
-<a href="https://www.oneiri.app" target="_blank"><img src="https://www.oneiri.app/oneiri_logo.png" alt="Oneiri Project Banner with Logo" width="8%"/></a>
-
-**Oneiri: 간밤의 꿈, 한 편의 이야기가 되다**
-
-AI를 활용해 사용자의 꿈을 매력적인 이야기로 재창조하는 생성형 AI 웹 서비스입니다. 흩어진 기억의 조각들을 입력하면, 세상에 단 하나뿐인 특별한 서사를 경험할 수 있습니다. 
-
-*   **Web Site:** **[oneiri.app](https://www.oneiri.app)**
-*   **Tech Stack:** `Next.js`, `Tailwind`, `TypeScript`, `Google Gemini API`, `Vercel`
----
 
 <a href="https://github.com/jhlee0409/claude-code-history-viewer" target="_blank"><img src="https://github.com/user-attachments/assets/74116391-9e60-4473-aab7-6ac139eae48c" alt="Claude Code History Viewer with Logo" width="8%"/></a>
 
@@ -66,5 +57,18 @@ Claude Code 사용자를 위한 대화 기록 뷰어입니다. 로컬에 저장�
 - Download Dmg: [releases](https://github.com/jhlee0409/claude-code-history-viewer/releases)
 - Tech Stack: React 19, TypeScript, Rust, Tauri, Tailwind CSS
 
+
+<a href="https://www.producthunt.com/products/claude-code-history-viewer?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-claude&#0045;code&#0045;history&#0045;viewer" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=987971&theme=dark&t=1751606951822" alt="Claude&#0032;Code&#0032;History&#0032;Viewer - Browse&#0032;and&#0032;analyze&#0032;your&#0032;Claude&#0032;Code&#0032;conversation&#0032;history | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
+---
+
+<a href="https://www.oneiri.app" target="_blank"><img src="https://www.oneiri.app/oneiri_logo.png" alt="Oneiri Project Banner with Logo" width="8%"/></a>
+
+**Oneiri: 간밤의 꿈, 한 편의 이야기가 되다**
+
+AI를 활용해 사용자의 꿈을 매력적인 이야기로 재창조하는 생성형 AI 웹 서비스입니다. 흩어진 기억의 조각들을 입력하면, 세상에 단 하나뿐인 특별한 서사를 경험할 수 있습니다. 
+
+*   **Web Site:** **[oneiri.app](https://www.oneiri.app)**
+*   **Tech Stack:** `Next.js`, `Tailwind`, `TypeScript`, `Google Gemini API`, `Vercel`
 
 
