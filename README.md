@@ -45,10 +45,14 @@
 
 <h3 align="left">📌 Featured Project</h3>
 
-
-<a href="https://github.com/jhlee0409/claude-code-history-viewer" target="_blank"><img src="https://github.com/user-attachments/assets/74116391-9e60-4473-aab7-6ac139eae48c" alt="Claude Code History Viewer with Logo" width="8%"/></a>
+  <a href="https://github.com/jhlee0409/claude-code-history-viewer" target="_blank"><img src="https://github.com/user-attachments/assets/74116391-9e60-4473-aab7-6ac139eae48c" alt="Claude Code History Viewer with Logo" width="8%"/></a>
+<p>
 
 **Claude Code History Viewer: AI 대화 기록의 효율적인 관리**
+![Downloads](https://img.shields.io/github/downloads/jhlee0409/claude-code-history-viewer/total)
+
+</p>
+
 
 Claude Code 사용자를 위한 대화 기록 뷰어입니다. 로컬에 저장된 대화 기록을
 체계적으로 탐색하고, 토큰 사용량을 분석하며, 필요한 코드나 대화를 빠르게 검색할 수
@@ -56,6 +60,8 @@ Claude Code 사용자를 위한 대화 기록 뷰어입니다. 로컬에 저장�
 
 - Download Dmg: [releases](https://github.com/jhlee0409/claude-code-history-viewer/releases)
 - Tech Stack: React 19, TypeScript, Rust, Tauri, Tailwind CSS
+
+
 
 
 <a href="https://www.producthunt.com/products/claude-code-history-viewer?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-claude&#0045;code&#0045;history&#0045;viewer" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=987971&theme=dark&t=1751613727569" alt="Claude&#0032;Code&#0032;History&#0032;Viewer - Browse&#0032;and&#0032;analyze&#0032;your&#0032;Claude&#0032;Code&#0032;conversation&#0032;history | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
