@@ -58,7 +58,7 @@ Claude Code 사용자를 위한 대화 기록 뷰어입니다. 로컬에 저장�
 - Tech Stack: React 19, TypeScript, Rust, Tauri, Tailwind CSS
 
 
-<a href="https://www.producthunt.com/products/claude-code-history-viewer?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-claude&#0045;code&#0045;history&#0045;viewer" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=987971&theme=dark&t=1751606951822" alt="Claude&#0032;Code&#0032;History&#0032;Viewer - Browse&#0032;and&#0032;analyze&#0032;your&#0032;Claude&#0032;Code&#0032;conversation&#0032;history | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+<a href="https://www.producthunt.com/products/claude-code-history-viewer?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-claude&#0045;code&#0045;history&#0045;viewer" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=987971&theme=dark&t=1751613727569" alt="Claude&#0032;Code&#0032;History&#0032;Viewer - Browse&#0032;and&#0032;analyze&#0032;your&#0032;Claude&#0032;Code&#0032;conversation&#0032;history | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 ---
 
