@@ -20,11 +20,11 @@
 <h3 align="left">📕 Latest Blog Post</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [React가 얕은 비교로 상태를 감지하는 이유와 불변성의 중요성](https://www.devunpacker.com/blog/react-shallow-comparison-and-immutability)
 - [바이브 코딩으로 만든 PR 자동 요약, 써보니 괜찮음](https://www.devunpacker.com/blog/pr-auto-summary-claude-ai)
 - [프론트엔드 선택 상태, 배열로 괜찮을까?](https://www.devunpacker.com/blog/frontend-selection-state-array-vs-set-map)
 - [🎬 웹에서 구현한 다양한 비디오 Crop 방식 비교기](https://www.devunpacker.com/blog/react-compare-video-crop-methods)
 - [다운로드 상태에 따른 폴링 제어: TanStack Query refetchInterval 함수형 패턴](https://www.devunpacker.com/blog/tanstack-query-refetchinterval-polling-control)
-- [Next.js 리다이렉트 이슈: 헤더 차이로 발생한 오류와 해결책](https://www.devunpacker.com/blog/nextjs-solving-redirect-header-issues)
 <!-- BLOG-POST-LIST:END -->
 
 ---
