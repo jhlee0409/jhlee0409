@@ -77,4 +77,37 @@ AI를 활용해 사용자의 꿈을 매력적인 이야기로 재창조하는 �
 *   **Web Site:** **[oneiri.app](https://www.oneiri.app)**
 *   **Tech Stack:** `Next.js`, `Tailwind`, `TypeScript`, `Google Gemini API`, `Vercel`
 
+---
+
+<a href="https://atelos.vercel.app" target="_blank"><img src="https://img.shields.io/badge/ATELOS-000000?style=for-the-badge&logo=gamepad&logoColor=white" alt="ATELOS" /></a>
+
+**ATELOS: 포스트 아포칼립스 AI 인터랙티브 스토리텔링 게임**
+
+포스트 아포칼립스 세계관에서 펼쳐지는 AI 기반 인터랙티브 스토리텔링 게임입니다. 플레이어 선택에 따라 이야기가 분기되며, Google Gemini AI가 실시간으로 서사를 생성합니다.
+
+*   **Web Site:** **[atelos.vercel.app](https://atelos.vercel.app)**
+*   **Tech Stack:** `Next.js 15`, `React 19`, `TypeScript`, `TailwindCSS`, `Gemini 2.5 Flash Lite`
+
+---
+
+<a href="https://donjwo.vercel.app" target="_blank"><img src="https://img.shields.io/badge/돈줘-4CAF50?style=for-the-badge&logo=money&logoColor=white" alt="돈줘" /></a>
+
+**돈줘: AI 기반 영수증 자동 인식 여행 정산 앱**
+
+AI 기반 영수증 자동 인식으로 여행 비용을 간편하게 정산하는 모바일 웹 앱입니다. 여행 중 발생하는 공동 비용을 효율적으로 관리할 수 있습니다.
+
+*   **Web Site:** **[donjwo.vercel.app](https://donjwo.vercel.app)**
+*   **Tech Stack:** `React`, `TypeScript`, `Vite`, `Zustand`, `Tailwind CSS`, `Gemini 2.5 Flash-Lite`
+
+---
+
+<a href="https://laylder.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Laylder-6366F1?style=for-the-badge&logo=layout&logoColor=white" alt="Laylder" /></a>
+
+**Laylder: AI 코드 생성을 위한 시각적 레이아웃 빌더**
+
+AI 기반 코드 생성을 위한 시각적 레이아웃 빌더입니다. 레이아웃 설계 도구로서 AI 최적화 프롬프트와 JSON 스키마를 생성합니다.
+
+*   **Web Site:** **[laylder.vercel.app](https://laylder.vercel.app)**
+*   **Tech Stack:** `Next.js 15`, `React 19`, `TypeScript`, `Tailwind CSS`, `shadcn/ui`, `Zustand`, `@dnd-kit`
+
 
