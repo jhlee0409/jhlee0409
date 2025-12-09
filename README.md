@@ -90,7 +90,7 @@ AI를 활용해 사용자의 꿈을 매력적인 이야기로 재창조하는 �
 
 ---
 
-<a href="https://donjwo.vercel.app" target="_blank"><img src="https://img.shields.io/badge/돈줘-4CAF50?style=for-the-badge&logo=money&logoColor=white" alt="돈줘" /></a>
+<a href="https://donjwo.vercel.app" target="_blank"><img width="7%" alt="donjwo-dark" src="https://github.com/user-attachments/assets/aabce8cb-c6a9-4447-9a54-780416abd886" /></a>
 
 **돈줘: AI 기반 영수증 자동 인식 여행 정산 앱**
 
