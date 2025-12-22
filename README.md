@@ -54,7 +54,7 @@
       <br/>
       <b>Claude Code History Viewer</b>
       <br/>
-      <sub>AI 대화 기록 뷰어 · React, Tauri, Rust</sub>
+      <sub>AI 대화 기록 뷰어</sub>
       <br/>
       <a href="https://github.com/jhlee0409/claude-code-history-viewer/releases"><img src="https://img.shields.io/github/downloads/jhlee0409/claude-code-history-viewer/total?style=flat-square" alt="Downloads"/></a>
     </td>
@@ -65,7 +65,7 @@
       <br/>
       <b>Oneiri</b>
       <br/>
-      <sub>꿈을 이야기로 재창조하는 AI 서비스 · Next.js, Gemini</sub>
+      <sub>꿈을 이야기로 재창조하는 AI 서비스</sub>
       <br/>
       <a href="https://www.oneiri.app">🔗 oneiri.app</a>
     </td>
@@ -78,7 +78,7 @@
       <br/>
       <b>ATELOS</b>
       <br/>
-      <sub>AI 인터랙티브 스토리텔링 게임 · Next.js 15, Gemini</sub>
+      <sub>AI 인터랙티브 스토리텔링 게임</sub>
       <br/>
       <a href="https://atelos.vercel.app">🔗 atelos.vercel.app</a>
     </td>
@@ -89,7 +89,7 @@
       <br/>
       <b>돈줘</b>
       <br/>
-      <sub>AI 영수증 인식 여행 정산 앱 · React, Vite, Gemini</sub>
+      <sub>AI 영수증 인식 여행 정산 앱</sub>
       <br/>
       <a href="https://donjwo.vercel.app">🔗 donjwo.vercel.app</a>
     </td>
@@ -102,7 +102,7 @@
       <br/>
       <b>Laylder</b>
       <br/>
-      <sub>AI 코드 생성용 시각적 레이아웃 빌더 · Next.js 15</sub>
+      <sub>AI 코드 생성용 시각적 레이아웃 빌더</sub>
       <br/>
       <a href="https://laylder.vercel.app">🔗 laylder.vercel.app</a>
     </td>
