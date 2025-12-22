@@ -45,69 +45,70 @@
 
 <h3 align="left">📌 Featured Project</h3>
 
-  <a href="https://github.com/jhlee0409/claude-code-history-viewer" target="_blank"><img src="https://github.com/user-attachments/assets/74116391-9e60-4473-aab7-6ac139eae48c" alt="Claude Code History Viewer with Logo" width="8%"/></a>
-<p>
-
-**Claude Code History Viewer: AI 대화 기록의 효율적인 관리**
-![Downloads](https://img.shields.io/github/downloads/jhlee0409/claude-code-history-viewer/total)
-
-</p>
-
-
-Claude Code 사용자를 위한 대화 기록 뷰어입니다. 로컬에 저장된 대화 기록을
-체계적으로 탐색하고, 토큰 사용량을 분석하며, 필요한 코드나 대화를 빠르게 검색할 수
- 있습니다.
-
-- Download Dmg: [releases](https://github.com/jhlee0409/claude-code-history-viewer/releases)
-- Tech Stack: React 19, TypeScript, Rust, Tauri, Tailwind CSS
-
-
-
-
-<a href="https://www.producthunt.com/products/claude-code-history-viewer?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-claude&#0045;code&#0045;history&#0045;viewer" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=987971&theme=dark&t=1751613727569" alt="Claude&#0032;Code&#0032;History&#0032;Viewer - Browse&#0032;and&#0032;analyze&#0032;your&#0032;Claude&#0032;Code&#0032;conversation&#0032;history | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-
----
-
-<a href="https://www.oneiri.app" target="_blank"><img src="https://www.oneiri.app/oneiri_logo.png" alt="Oneiri Project Banner with Logo" width="8%"/></a>
-
-**Oneiri: 간밤의 꿈, 한 편의 이야기가 되다**
-
-AI를 활용해 사용자의 꿈을 매력적인 이야기로 재창조하는 생성형 AI 웹 서비스입니다. 흩어진 기억의 조각들을 입력하면, 세상에 단 하나뿐인 특별한 서사를 경험할 수 있습니다. 
-
-*   **Web Site:** **[oneiri.app](https://www.oneiri.app)**
-*   **Tech Stack:** `Next.js`, `Tailwind`, `TypeScript`, `Google Gemini API`, `Vercel`
-
----
-
-<a href="https://atelos.vercel.app" target="_blank"><img src="https://img.shields.io/badge/ATELOS-000000?style=for-the-badge&logo=gamepad&logoColor=white" alt="ATELOS" /></a>
-
-**ATELOS: 포스트 아포칼립스 AI 인터랙티브 스토리텔링 게임**
-
-포스트 아포칼립스 세계관에서 펼쳐지는 AI 기반 인터랙티브 스토리텔링 게임입니다. 플레이어 선택에 따라 이야기가 분기되며, Google Gemini AI가 실시간으로 서사를 생성합니다.
-
-*   **Web Site:** **[atelos.vercel.app](https://atelos.vercel.app)**
-*   **Tech Stack:** `Next.js 15`, `React 19`, `TypeScript`, `TailwindCSS`, `Gemini 2.5 Flash Lite`
-
----
-
-<a href="https://donjwo.vercel.app" target="_blank"><img width="7%" alt="donjwo-dark" src="https://github.com/user-attachments/assets/aabce8cb-c6a9-4447-9a54-780416abd886" /></a>
-
-**돈줘: AI 기반 영수증 자동 인식 여행 정산 앱**
-
-AI 기반 영수증 자동 인식으로 여행 비용을 간편하게 정산하는 모바일 웹 앱입니다. 여행 중 발생하는 공동 비용을 효율적으로 관리할 수 있습니다.
-
-*   **Web Site:** **[donjwo.vercel.app](https://donjwo.vercel.app)**
-*   **Tech Stack:** `React`, `TypeScript`, `Vite`, `Zustand`, `Tailwind CSS`, `Gemini 2.5 Flash-Lite`
-
----
-
-<a href="https://laylder.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Laylder-6366F1?style=for-the-badge&logo=layout&logoColor=white" alt="Laylder" /></a>
-
-**Laylder: AI 코드 생성을 위한 시각적 레이아웃 빌더**
-
-AI 기반 코드 생성을 위한 시각적 레이아웃 빌더입니다. 레이아웃 설계 도구로서 AI 최적화 프롬프트와 JSON 스키마를 생성합니다.
-
-*   **Web Site:** **[laylder.vercel.app](https://laylder.vercel.app)**
-*   **Tech Stack:** `Next.js 15`, `React 19`, `TypeScript`, `Tailwind CSS`, `shadcn/ui`, `Zustand`, `@dnd-kit`
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/jhlee0409/claude-code-history-viewer">
+        <img src="https://github.com/user-attachments/assets/74116391-9e60-4473-aab7-6ac139eae48c" width="60" alt="Claude Code History Viewer"/>
+      </a>
+      <br/>
+      <b>Claude Code History Viewer</b>
+      <br/>
+      <sub>AI 대화 기록 뷰어 · React, Tauri, Rust</sub>
+      <br/>
+      <a href="https://github.com/jhlee0409/claude-code-history-viewer/releases"><img src="https://img.shields.io/github/downloads/jhlee0409/claude-code-history-viewer/total?style=flat-square" alt="Downloads"/></a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.oneiri.app">
+        <img src="https://www.oneiri.app/oneiri_logo.png" width="60" alt="Oneiri"/>
+      </a>
+      <br/>
+      <b>Oneiri</b>
+      <br/>
+      <sub>꿈을 이야기로 재창조하는 AI 서비스 · Next.js, Gemini</sub>
+      <br/>
+      <a href="https://www.oneiri.app">🔗 oneiri.app</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://atelos.vercel.app">
+        <img src="https://img.shields.io/badge/ATELOS-000000?style=for-the-badge&logo=gamepad&logoColor=white" alt="ATELOS"/>
+      </a>
+      <br/>
+      <b>ATELOS</b>
+      <br/>
+      <sub>AI 인터랙티브 스토리텔링 게임 · Next.js 15, Gemini</sub>
+      <br/>
+      <a href="https://atelos.vercel.app">🔗 atelos.vercel.app</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://donjwo.vercel.app">
+        <img src="https://github.com/user-attachments/assets/aabce8cb-c6a9-4447-9a54-780416abd886" width="60" alt="돈줘"/>
+      </a>
+      <br/>
+      <b>돈줘</b>
+      <br/>
+      <sub>AI 영수증 인식 여행 정산 앱 · React, Vite, Gemini</sub>
+      <br/>
+      <a href="https://donjwo.vercel.app">🔗 donjwo.vercel.app</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://laylder.vercel.app">
+        <img src="https://img.shields.io/badge/Laylder-6366F1?style=for-the-badge&logo=layout&logoColor=white" alt="Laylder"/>
+      </a>
+      <br/>
+      <b>Laylder</b>
+      <br/>
+      <sub>AI 코드 생성용 시각적 레이아웃 빌더 · Next.js 15</sub>
+      <br/>
+      <a href="https://laylder.vercel.app">🔗 laylder.vercel.app</a>
+    </td>
+    <td align="center" width="50%">
+    </td>
+  </tr>
+</table>
 
 
