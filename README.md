@@ -56,7 +56,7 @@
       <br/>
       <sub>AI 대화 기록 뷰어</sub>
       <br/>
-      <a href="https://github.com/jhlee0409/claude-code-history-viewer/releases"><img src="https://img.shields.io/github/downloads/jhlee0409/claude-code-history-viewer/total?style=flat-square" alt="Downloads"/></a>
+      <a href="https://github.com/jhlee0409/claude-code-history-viewer/releases">releases</a>
     </td>
     <td align="center" width="50%">
       <a href="https://www.oneiri.app">
