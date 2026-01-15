@@ -107,6 +107,12 @@
       <a href="https://laylder.vercel.app">🔗 laylder.vercel.app</a>
     </td>
     <td align="center" width="50%">
+      <br/>
+      <b>OpenAPI-Sync plugin</b>
+      <p>Claude Code Plugin</p>
+      <sub>OpenAPI 스펙 기준 코드베이스 동기화 플러그인</sub>
+      <br/>
+      <a href="https://github.com/jhlee0409/claude-plugins/tree/main/plugins/oas">🔗 Read README.md</a>
     </td>
   </tr>
 </table>
