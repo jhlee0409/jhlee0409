@@ -26,21 +26,6 @@
 - [🎬 웹에서 구현한 다양한 비디오 Crop 방식 비교기](https://www.devunpacker.com/blog/react-compare-video-crop-methods)
 - [다운로드 상태에 따른 폴링 제어: TanStack Query refetchInterval 함수형 패턴](https://www.devunpacker.com/blog/tanstack-query-refetchinterval-polling-control)
 <!-- BLOG-POST-LIST:END -->
-
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhlee0409&show_icons=true&locale=en&layout=compact" alt="jhlee0409" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhlee0409&show_icons=true&locale=en" alt="jhlee0409" /></p>
-
-<p><a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/jhlee0409"
-  width="600"
-  height="300"
-/>
-</a></p>
-
 ---
 
 <h3 align="left">📌 Featured Project</h3>
