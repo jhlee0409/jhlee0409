@@ -85,6 +85,3 @@
   </tr>
 </table>
 
-[![MCP Badge](https://lobehub.com/badge/mcp-full/jhlee0409-elenchus-mcp)](https://lobehub.com/mcp/jhlee0409-elenchus-mcp)
-[![MCP Badge](https://lobehub.com/badge/mcp-full/jhlee0409-openapi-sync-mcp)](https://lobehub.com/mcp/jhlee0409-openapi-sync-mcp)
-
