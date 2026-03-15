@@ -23,7 +23,7 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://github.com/jhlee0409/claude-code-history-viewer">
         <img src="https://github.com/user-attachments/assets/74116391-9e60-4473-aab7-6ac139eae48c" width="60" alt="Claude Code History Viewer"/>
       </a>
@@ -34,7 +34,7 @@
       <br/>
       <a href="https://github.com/jhlee0409/claude-code-history-viewer/releases">releases</a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://www.oneiri.app">
         <img src="https://www.oneiri.app/oneiri_logo.png" width="60" alt="Oneiri"/>
       </a>
@@ -45,9 +45,7 @@
       <br/>
       <a href="https://www.oneiri.app">🔗 oneiri.app</a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://atelos.vercel.app">
         <img src="https://img.shields.io/badge/ATELOS-000000?style=for-the-badge&logo=gamepad&logoColor=white" alt="ATELOS"/>
       </a>
@@ -58,7 +56,9 @@
       <br/>
       <a href="https://atelos.vercel.app">🔗 atelos.vercel.app</a>
     </td>
-    <td align="center" width="50%">
+  </tr>
+  <tr>
+    <td align="center" width="33%">
       <a href="https://donjwo.vercel.app">
         <img src="https://github.com/user-attachments/assets/aabce8cb-c6a9-4447-9a54-780416abd886" width="60" alt="돈줘"/>
       </a>
@@ -69,9 +69,7 @@
       <br/>
       <a href="https://donjwo.vercel.app">🔗 donjwo.vercel.app</a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://laylder.vercel.app">
         <img src="https://img.shields.io/badge/Laylder-6366F1?style=for-the-badge&logo=layout&logoColor=white" alt="Laylder"/>
       </a>
@@ -82,7 +80,7 @@
       <br/>
       <a href="https://laylder.vercel.app">🔗 laylder.vercel.app</a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://easypeasylanding.com">
         <img src="https://easypeasylanding.com/epl-logo.png" width="60" alt="Easy Peasy Landing"/>
       </a>
@@ -95,7 +93,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <a href="https://ficta.dev">
         <img src="https://ficta.dev/ficta-logo.png" width="60" alt="ficta"/>
       </a>
@@ -106,7 +104,9 @@
       <br/>
       <a href="https://ficta.dev">🔗 ficta.dev</a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
+    </td>
+    <td align="center" width="33%">
     </td>
   </tr>
 </table>
