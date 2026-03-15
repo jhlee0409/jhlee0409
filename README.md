@@ -94,5 +94,20 @@
       <a href="https://easypeasylanding.com">🔗 easypeasylanding.com</a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://ficta.dev">
+        <img src="https://ficta.dev/ficta-logo.png" width="60" alt="ficta"/>
+      </a>
+      <br/>
+      <b>ficta</b>
+      <br/>
+      <sub>AI 자동 생성 단편 소설 서비스</sub>
+      <br/>
+      <a href="https://ficta.dev">🔗 ficta.dev</a>
+    </td>
+    <td align="center" width="50%">
+    </td>
+  </tr>
 </table>
 
