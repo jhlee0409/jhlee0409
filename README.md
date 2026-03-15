@@ -82,6 +82,17 @@
       <br/>
       <a href="https://laylder.vercel.app">🔗 laylder.vercel.app</a>
     </td>
+    <td align="center" width="50%">
+      <a href="https://easypeasylanding.com">
+        <img src="https://easypeasylanding.com/epl-logo.png" width="60" alt="Easy Peasy Landing"/>
+      </a>
+      <br/>
+      <b>Easy Peasy Landing</b>
+      <br/>
+      <sub>AI 랜딩페이지 프롬프트 생성기</sub>
+      <br/>
+      <a href="https://easypeasylanding.com">🔗 easypeasylanding.com</a>
+    </td>
   </tr>
 </table>
 
